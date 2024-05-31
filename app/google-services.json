@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "87343352494",
+    "project_id": "mail-1c2e3",
+    "storage_bucket": "mail-1c2e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87343352494:android:7323a0df3e56e5ad433b3f",
+        "android_client_info": {
+          "package_name": "com.aryan.mail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhqqfiHHNApSgrb5l75jJPCQO8pli3E0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
